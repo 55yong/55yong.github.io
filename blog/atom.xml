@@ -34,6 +34,10 @@
             <name>Yangshun Tay</name>
             <uri>https://github.com/yangshun</uri>
         </author>
+        <author>
+            <name>YongJun OH</name>
+            <uri>https://55yong.github.io</uri>
+        </author>
         <category label="Facebook" term="Facebook"/>
         <category label="Hello" term="Hello"/>
         <category label="Docusaurus" term="Docusaurus"/>
