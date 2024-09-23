@@ -92,6 +92,12 @@ const config = {
             position: "left",
             label: "🦁 멋사대학 12기 스터디",
           },
+          {
+            type: "docSidebar",
+            sidebarId: "reactStudy",
+            position: "left",
+            label: "리액트 스터디",
+          },
           { to: "/blog", label: "Blog", position: "left" },
           {
             href: "https://github.com/55yong",
