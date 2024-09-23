@@ -15,9 +15,19 @@ slorber:
   image_url: https://github.com/slorber.png
   page:
     # customize the url of the author page at /blog/authors/<permalink>
-    permalink: '/all-sebastien-lorber-articles'
+    permalink: "/all-sebastien-lorber-articles"
   socials:
     x: sebastienlorber
     linkedin: sebastienlorber
     github: slorber
     newsletter: https://thisweekinreact.com
+
+55yong:
+  name: YongJun OH
+  title: Front-End Eigneer
+  url: https://55yong.github.io
+  image_url: https://github.com/55yong.png
+  page: true
+  socials:
+    linkedin: 55yong
+    github: 55yong
