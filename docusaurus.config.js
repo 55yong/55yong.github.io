@@ -8,7 +8,7 @@ import { themes as prismThemes } from "prism-react-renderer";
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "55yong(오용)의 블로그",
+  title: "55yong blog",
   tagline: "FE 개발자 지망생",
   favicon: "img/favicon.ico",
 
@@ -73,6 +73,12 @@ const config = {
     ({
       // Replace with your project's social card
       image: "img/docusaurus-social-card.jpg",
+      metadata: [
+        {
+          name: "google-site-verification",
+          content: "57_ZmsJRk90_3o1KQ42dpcFN0ain4CGn7NeKz25ua5U",
+        },
+      ],
       navbar: {
         title: "My Site",
         logo: {
