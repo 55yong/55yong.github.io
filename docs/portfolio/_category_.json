@@ -1,10 +1,10 @@
 {
-  "label": "리액트 공부",
+  "label": "포트폴리오",
   "position": 2,
   "collapsible": true,
   "collapsed": false,
   "link": {
     "type": "generated-index",
-    "description": "react-study"
+    "description": "portfolio"
   }
 }

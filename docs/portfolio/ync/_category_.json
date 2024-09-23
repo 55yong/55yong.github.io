@@ -1,0 +1,10 @@
+{
+  "label": "영남이공대학교",
+  "position": 4,
+  "collapsible": true,
+  "collapsed": false,
+  "link": {
+    "type": "generated-index",
+    "description": "영남이공대학교 소프트웨어콘텐츠계열"
+  }
+}
