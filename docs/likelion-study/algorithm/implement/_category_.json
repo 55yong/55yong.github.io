@@ -1,0 +1,10 @@
+{
+  "label": "구현",
+  "position": 3,
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "description": "구현 문제 (해결 시간 순서대로 정렬)"
+  }
+}

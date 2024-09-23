@@ -1,0 +1,10 @@
+{
+  "label": "따라하며 배우는 리액트 A-Z",
+  "position": 3,
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "description": "\"따라하며 배우는 리액트 A-Z\" 강의를 보고 정리한 내용입니다."
+  }
+}

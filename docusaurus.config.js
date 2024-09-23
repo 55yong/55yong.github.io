@@ -13,15 +13,15 @@ const config = {
   favicon: "img/favicon.ico",
 
   // Set the production url of your site here
-  url: "https://your-docusaurus-site.example.com",
+  url: "https://55yong.github.io",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: "/",
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: "facebook", // Usually your GitHub org/user name.
-  projectName: "docusaurus", // Usually your repo name.
+  organizationName: "55yong", // Usually your GitHub org/user name.
+  projectName: "55yong.github.io", // Usually your repo name.
 
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
@@ -80,15 +80,21 @@ const config = {
           src: "img/logo.svg",
         },
         items: [
+          // {
+          //   type: "docSidebar",
+          //   sidebarId: "tutorialSidebar",
+          //   position: "left",
+          //   label: "Tutorial",
+          // },
           {
             type: "docSidebar",
-            sidebarId: "tutorialSidebar",
+            sidebarId: "likelionStudy",
             position: "left",
-            label: "Tutorial",
+            label: "🦁 멋사대학 12기 스터디",
           },
           { to: "/blog", label: "Blog", position: "left" },
           {
-            href: "https://github.com/facebook/docusaurus",
+            href: "https://github.com/55yong",
             label: "GitHub",
             position: "right",
           },
@@ -99,29 +105,29 @@ const config = {
         links: [
           {
             title: "Docs",
-            items: [
-              {
-                label: "Tutorial",
-                to: "/docs/intro",
-              },
-            ],
+            // items: [
+            //   {
+            //     label: "Tutorial",
+            //     to: "/docs/intro",
+            //   },
+            // ],
           },
           {
             title: "Community",
-            items: [
-              {
-                label: "Stack Overflow",
-                href: "https://stackoverflow.com/questions/tagged/docusaurus",
-              },
-              {
-                label: "Discord",
-                href: "https://discordapp.com/invite/docusaurus",
-              },
-              {
-                label: "Twitter",
-                href: "https://twitter.com/docusaurus",
-              },
-            ],
+            // items: [
+            //   {
+            //     label: "Stack Overflow",
+            //     href: "https://stackoverflow.com/questions/tagged/docusaurus",
+            //   },
+            //   {
+            //     label: "Discord",
+            //     href: "https://discordapp.com/invite/docusaurus",
+            //   },
+            //   {
+            //     label: "Twitter",
+            //     href: "https://twitter.com/docusaurus",
+            //   },
+            // ],
           },
           {
             title: "More",
@@ -132,12 +138,12 @@ const config = {
               },
               {
                 label: "GitHub",
-                href: "https://github.com/facebook/docusaurus",
+                href: "https://github.com/55yong",
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} 55yong Inc. Built with Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,

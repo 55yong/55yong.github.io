@@ -1,0 +1,10 @@
+{
+  "label": "섹션 1 - 리액트란",
+  "position": 4,
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "description": "섹션 1 - 리액트란"
+  }
+}

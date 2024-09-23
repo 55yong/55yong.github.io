@@ -1,0 +1,10 @@
+{
+  "label": "멋사 스터디",
+  "position": 2,
+  "collapsible": true,
+  "collapsed": false,
+  "link": {
+    "type": "generated-index",
+    "description": "likelion-study"
+  }
+}
