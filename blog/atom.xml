@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://55yong.github.io/blog</id>
-    <title>55yong(오용)의 블로그 Blog</title>
+    <title>55yong blog Blog</title>
     <updated>2024-09-23T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://55yong.github.io/blog"/>
-    <subtitle>55yong(오용)의 블로그 Blog</subtitle>
+    <subtitle>55yong blog Blog</subtitle>
     <icon>https://55yong.github.io/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[오용 블로그 시작🎉]]></title>
