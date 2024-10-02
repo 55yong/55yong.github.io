@@ -1,0 +1,10 @@
+{
+  "label": "투 포인터",
+  "position": 4,
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "description": "투 포인터 문제 (해결 날짜대로 정렬)"
+  }
+}
