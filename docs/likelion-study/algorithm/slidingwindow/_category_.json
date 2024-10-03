@@ -1,0 +1,10 @@
+{
+  "label": "슬라이딩 윈도우",
+  "position": 7,
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "description": "슬라이딩 윈도우 문제 (해결 날짜대로 정렬)"
+  }
+}
