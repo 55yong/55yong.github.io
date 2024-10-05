@@ -1,0 +1,10 @@
+{
+  "label": "이분 탐색",
+  "position": 7,
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "description": "이분 탐색 문제 (해결 날짜대로 정렬)"
+  }
+}
