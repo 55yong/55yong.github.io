@@ -1,7 +1,7 @@
 ---
 slug: "boj번호"
 title: "[BOJ][JS] 번호 이름"
-sidebar_position: 3
+sidebar_position: 0
 ---
 
 ## [[BOJ] 번호 이름](https://www.acmicpc.net/problem/번호)
