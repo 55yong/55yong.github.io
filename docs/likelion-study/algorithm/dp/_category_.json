@@ -1,0 +1,10 @@
+{
+  "label": "다이나믹 프로그래밍",
+  "position": 8,
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "description": "다이나믹 프로그래밍 문제 (해결 날짜대로 정렬)"
+  }
+}
