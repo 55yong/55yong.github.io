@@ -1,0 +1,10 @@
+{
+  "label": "그리디",
+  "position": 9,
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "description": "그리디 알고리즘 문제 (해결 날짜대로 정렬)"
+  }
+}
