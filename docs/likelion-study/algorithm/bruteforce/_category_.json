@@ -1,0 +1,10 @@
+{
+  "label": "브루트포스",
+  "position": 10,
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "description": "브루트포스 알고리즘 문제 (해결 날짜대로 정렬)"
+  }
+}
