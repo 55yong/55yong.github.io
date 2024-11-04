@@ -1,0 +1,10 @@
+{
+  "label": "BFS, DFS",
+  "position": 11,
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "description": "BFS, DFS 알고리즘 문제 (해결 날짜대로 정렬)"
+  }
+}
