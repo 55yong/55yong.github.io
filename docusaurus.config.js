@@ -10,8 +10,8 @@ import rehypeKatex from "rehype-katex";
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "55yong blog",
-  tagline: "FE 개발자 지망생",
+  title: "Hello, 55yong!",
+  tagline: "안녕하세요. 프론트엔드 개발자를 꿈꾸는 학생 오용준입니다.",
   favicon: "img/favicon.ico",
 
   // Set the production url of your site here
@@ -104,20 +104,13 @@ const config = {
           src: "img/logo.png",
         },
         items: [
-          {
-            type: "docSidebar",
-            sidebarId: "portfolio",
-            position: "left",
-            label: "📝 포트폴리오",
-          },
+          { to: "/blog", label: "✏️ TIL", position: "left" },
           {
             type: "docSidebar",
             sidebarId: "likelionStudy",
             position: "left",
             label: "🦁 멋사대학 12기 스터디",
           },
-
-          { to: "/blog", label: "✏️ TIL", position: "left" },
           {
             href: "https://github.com/55yong",
             label: "GitHub",

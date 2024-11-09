@@ -1,10 +1,10 @@
 {
-  "label": "포트폴리오",
+  "label": "프로필",
   "position": 2,
   "collapsible": true,
   "collapsed": false,
   "link": {
     "type": "generated-index",
-    "description": "portfolio"
+    "description": "profile"
   }
 }
