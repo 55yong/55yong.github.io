@@ -5,7 +5,7 @@ sidebar_position: 1
 ---
 
 <div style={{display: 'flex', alignItems: 'center', justifyContent: 'center'}}>
-<img src="https://file.notion.so/f/f/c1d8dd53-6891-452f-9862-27db5a07d7bb/d80e63a6-3e1b-41dd-8468-1b9b9ebc6724/18619a23-ad35-4eda-9400-4c6a6ae2efde.png?table=block&id=2591612d-e2c2-41c3-a2bc-fdc244dce94a&spaceId=c1d8dd53-6891-452f-9862-27db5a07d7bb&expirationTimestamp=1731240000000&signature=vHSqNpticiogCaKl3-MZ-JBJzr1C6iFaFFcmmjHWWew&downloadName=%E1%84%83%E1%85%A2%E1%84%92%E1%85%A1%E1%86%A8%E1%84%80%E1%85%AD+%E1%84%8C%E1%85%B3%E1%86%BC%E1%84%86%E1%85%A7%E1%86%BC%E1%84%89%E1%85%A1%E1%84%8C%E1%85%B5%E1%86%AB.jpg.png" style={{height:200 + 'px'}} alt="face"/> 
+<img src="/img/face.png" style={{height:200 + 'px'}} alt="face"/> 
 <h2>안녕하세요. 프론트엔드 개발자를 꿈꾸는 학생 오용준입니다.</h2> 
 약 3년간 IT네트워크시스템 기능영재생으로 활동하며 네트워크 지식과 리눅스, 윈도우 서버를 능숙하게 다루는 방법을 익혔고
 현재 영남이공대학교 소프트웨어융합과를 다니면서 프론트엔드, 백엔드, 게임 개발, 임베디드 개발 등 다양한 지식을 습득하고 있습니다.
