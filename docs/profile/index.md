@@ -1,6 +1,6 @@
 ---
 slug: "profile"
-title: ""
+title: "개요"
 sidebar_position: 1
 ---
 
