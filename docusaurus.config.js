@@ -11,7 +11,7 @@ import rehypeKatex from "rehype-katex";
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: "Hello, 55yong!",
-  tagline: "안녕하세요. 프론트엔드 개발자를 꿈꾸는 학생 오용준입니다.",
+  tagline: "안녕하세요, 깊이 탐구하는 개발자 오용준입니다.",
   favicon: "img/favicon.ico",
 
   // Set the production url of your site here
